@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/App.css"],"names":[],"mappings":"AAAA,KACI,yCACA,6CAAwD,CAC3D","file":"static/css/main.37da54d2.css","sourcesContent":["body {\r\n    background: url('../assets/img/background.jpg');\r\n    font-family: \"Roboto\", \"Helvetica\", \"Arial\", sans-serif;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/views/App.css"],"sourceRoot":""}
