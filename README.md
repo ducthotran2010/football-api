@@ -16,4 +16,6 @@ This is a demo react app base on [Football-data REST API](https://www.football-d
   - League table
 
 
-## Development
+## Requires
+- NodeJS 8.11.3
+- NPM 5.6.0
